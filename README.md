@@ -26,8 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-mobile: image.png
-desktop: image.png
+mobile: ![Screenshot 2023-02-23 at 06-26-16 Faq-accordion card](https://user-images.githubusercontent.com/106669781/220869619-6bf96dda-ee15-4ef3-8618-40e67efd1581.png)
+
+desktop:![Screenshot 2023-02-23 at 06-25-41 Faq-accordion card](https://user-images.githubusercontent.com/106669781/220869652-82986083-b18e-4d21-92bc-5fb08c66a5dd.png)
+
 
 
 ### Links
