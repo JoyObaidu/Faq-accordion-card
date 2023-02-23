@@ -35,7 +35,7 @@ desktop:![Screenshot 2023-02-23 at 06-25-41 Faq-accordion card](https://user-ima
 ### Links
 
 - Solution URL: [Add solution URL here](https://)
-- Live Site URL: [Add live site URL here](https://)
+- Live Site URL: (https://joyobaidu.github.io/Faq-accordion-card/)
 
 ## My process
 
